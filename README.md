@@ -1,6 +1,11 @@
-# Teaching Bayesian Statistics at the Undergraduate Level Workshop at USCOTS 2021
+# Teaching Bayesian Statistics at the Undergraduate Level Workshop at ICOTS 2022
 
 <hr style="border:2px solid gray"> </hr>
+
+An earlier version of this workshop was offered by Mine Dogucu, Alicia Johnson, Miles Ott at [USCOTS 2021](https://github.com/bayes-rules/uscots-2021)
+
+<hr style="border:2px solid gray"> </hr>
+
 
 ## Before the Workshop: Instructions for R Users
 
