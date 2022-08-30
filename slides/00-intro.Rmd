@@ -1,8 +1,8 @@
 ---
 title: "Teaching Bayesian Statistics at the Undergraduate Level\n\nAn Overview"
-subtitle: "USCOTS workshop"
-author: "Mine Dogucu, Alicia Johnson, and Miles Ott"
-date: "2021-06-24"
+subtitle: "ICOTS 11 workshop"
+author: "Mine Dogucu"
+date: "2022-09-11"
 output:
   xaringan::moon_reader:
     css: slide-style.css
@@ -20,19 +20,19 @@ output:
 ---
 
 
-class: top
+class: middle
 
 ## As you get settled in
 
 - Download the whole workshop repo:    
-    - https://github.com/bayes-rules/uscots-2021
+    - [github.com/bayes-rules/icots-2022](https://github.com/bayes-rules/icots-2022)
     - Click on the green "Code" button.
     - Select "download zip".
     
 
 - Open RStudio (or R).
 
-- Say hello in the chat!
+- Say hello to your neighbor!
 
 ---
 
@@ -85,7 +85,7 @@ class: middle center
 
 Miles Ott
 
-Smith College
+Twitter
 
 .large[`r fontawesome::fa(name = "twitter")`] <a href = "https://twitter.com/Miles_Ott">Miles_Ott</a>   
 .large[`r fontawesome::fa(name = "link")`] <a href = "https://milesott.com/">milesott.com</a>  
@@ -114,7 +114,6 @@ class: top
 
 ## Workshop goals
 
-Two hours isn't much time! Here are some of our goals:
 
 - Learn a little bit about Bayes (especially if you're new to the topic).
 
@@ -133,12 +132,12 @@ class: top
 
 - Introduction and motivation
 
-- Hands on time with breakout rooms:    
+- Hands on time with code:    
     - Bayesian foundations    
     - Posterior simulation & analysis
     - Regression
 
-- Breakout room etiquette: be nice
+- Workshop etiquette: be kind to each other
 
 
 
@@ -182,7 +181,9 @@ class: middle
 
 - Datasets
 
-More on the topic is available on [DataPedagogy blog](https://www.datapedagogy.com/#category:Bayes_Rules!_book).
+More on the topic is available on [preprint](https://arxiv.org/abs/2110.06355).
+
+Dogucu, M., Johnson, A. A., & Ott, M. (2021). Framework for Accessible and Inclusive Teaching Materials for Statistics and Data Science Courses. arXiv preprint arXiv:2110.06355.
 ---
 
 class: middle
@@ -333,7 +334,7 @@ b. If in fact I don't have the disease, what's the chance that I would’ve gott
 
 ---
 
-class: top
+class: middle
 
 
 ## Score yourself!
