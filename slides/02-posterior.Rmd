@@ -1,8 +1,8 @@
 ---
 title: "Teaching Bayesian Statistics at the Undergraduate Level\n\nPosterior Simulation and Analysis"
 subtitle: "USCOTS workshop"
-author: "Alicia Johnson"
-date: "2021-06-24"
+author: "Mine Dogucu"
+date: "2022-09-11"
 output:
   xaringan::moon_reader:
     css: slide-style.css

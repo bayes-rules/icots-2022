@@ -2,7 +2,7 @@
 title: "Teaching Bayesian Statistics at the Undergraduate Level\n\nBayesian Regression and Classification"
 subtitle: "USCOTS workshop"
 author: "Mine Dogucu"
-date: "2021-06-24"
+date: "2022-09-11"
 output:
   xaringan::moon_reader:
     css: slide-style.css
