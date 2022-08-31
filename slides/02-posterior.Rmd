@@ -1,6 +1,6 @@
 ---
 title: "Teaching Bayesian Statistics at the Undergraduate Level\n\nPosterior Simulation and Analysis"
-subtitle: "USCOTS workshop"
+subtitle: "ICOTS workshop"
 author: "Mine Dogucu"
 date: "2022-09-11"
 output:
@@ -145,7 +145,7 @@ $$\left\lbrace \pi^{(1)}, \pi^{(2)}, \ldots, \pi^{(N)} \right\rbrace$$
 
 ---
 
-class: top
+class: middle
 
 
 # Activity goals

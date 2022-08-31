@@ -1,6 +1,6 @@
 ---
 title: "Teaching Bayesian Statistics at the Undergraduate Level\n\nBayesian Regression and Classification"
-subtitle: "USCOTS workshop"
+subtitle: "ICOTS workshop"
 author: "Mine Dogucu"
 date: "2022-09-11"
 output:
