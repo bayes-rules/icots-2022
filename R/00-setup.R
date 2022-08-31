@@ -5,11 +5,6 @@ library(rstanarm)
 library(bayesplot)
 library(tidyverse)
 library(tidybayes)
-library(devtools)
-
-#### installing bayesrules package
-
-# install_github("bayes-rules/bayesrules")
 
 
 # Data Wrangling ----------------------------------------------------------
