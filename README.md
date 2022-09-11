@@ -49,5 +49,5 @@ You will need to
 ---
 
 :alarm_clock:	3:15 - 4:00 pm  
-:computer: [Bayesian Regression and Classification](https://bayes-rules-icots-2022.netlify.app/slides/03-modeling.html)
+:computer: [Bayesian Regression and Classification](https://bayes-rules-icots-2022.netlify.app/slides/03-regression.html)
 
