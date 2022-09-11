@@ -38,6 +38,8 @@ class: middle
 
 class: middle center
 
+### Instructor
+
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
 library(bayesrules)
@@ -48,49 +50,67 @@ theme_set(theme_gray(base_size = 18))
 
 <img src="img/headshot.jpeg"
         alt="A headshot of a woman with curly, short, ear-length hair with green eyes and red lipstick."
-        style="width:165px; margin-top:20px; border: 3px solid whitesmoke; padding: 10px;">
+        style="width:165px; margin-top:20px; border: 3px solid whitesmoke;">
 
-Mine Dogucu
+Mine Dogucu  
+University College London        
 
-University of California Irvine        
-
-.large[`r fontawesome::fa(name = "twitter")`] <a href = "http://twitter.com/MineDogucu">MineDogucu</a>  
-.large[`r fontawesome::fa(name = "github")`] <a href = "http://github.com/mdogucu">mdogucu</a>  
-.large[`r fontawesome::fa(name = "link")`] <a href = "http://minedogucu.com">minedogucu.com</a>
+`r fontawesome::fa(name = "twitter")` <a href = "http://twitter.com/MineDogucu">MineDogucu</a>  
+`r fontawesome::fa(name = "github")` <a href = "http://github.com/mdogucu">mdogucu</a>  
+`r fontawesome::fa(name = "link")` <a href = "http://minedogucu.com">minedogucu.com</a>
 
 
 ---
 
 class: middle center
+
+### Coauthor
 
 <img src="img/alicia.jpg"
         alt="A headshot of a woman with long blonde hair wearing a brownish yellow tshirt and a red and pink floral silk scarf wrapped around her neck."
-        style="width:165px; margin-top:20px; border: 3px solid whitesmoke; padding: 10px;">
+        style="width:165px; margin-top:20px; border: 3px solid whitesmoke;">
 
-Alicia Johnson
-
+Alicia Johnson  
 Macalester College
 
-.large[`r fontawesome::fa(name = "link")`] <a href = "https://ajohns24.github.io/portfolio">Website</a>
+`r fontawesome::fa(name = "link")` <a href = "https://ajohns24.github.io/portfolio">Website</a>
 
-.large[`r fontawesome::fa(name = "github")`] <a href = "https://github.com/ajohns24">ajohns24</a>  
+`r fontawesome::fa(name = "github")` <a href = "https://github.com/ajohns24">ajohns24</a>  
 
 ---
 
 class: middle center
 
+### Coauthor
+
+
 <img src="img/miles.png"
         alt="A headshot of a man with short dark hair, and a dark moustache. He is wearing a blue button up shirt and dark gray jacket"
-        style="width:165px; margin-top:20px; border: 3px solid whitesmoke; padding: 10px;">
+        style="width:165px; margin-top:20px; border: 3px solid whitesmoke;">
 
-Miles Ott
-
+Miles Ott  
 Twitter
 
-.large[`r fontawesome::fa(name = "twitter")`] <a href = "https://twitter.com/Miles_Ott">Miles_Ott</a>   
-.large[`r fontawesome::fa(name = "link")`] <a href = "https://milesott.com/">milesott.com</a>  
-.large[`r fontawesome::fa(name = "github")`] <a href = "https://github.com/MilesOtt">MilesOtt</a>  
+`r fontawesome::fa(name = "twitter")` <a href = "https://twitter.com/Miles_Ott">Miles_Ott</a>   
+`r fontawesome::fa(name = "link")` <a href = "https://milesott.com/">milesott.com</a>  
+`r fontawesome::fa(name = "github")` <a href = "https://github.com/MilesOtt">MilesOtt</a>  
 
+---
+
+class: middle center
+
+### TA
+
+<img src="img/wendy.jpeg"
+        alt="A headshot of a woman with long blonde hair with glasses on her head."
+        style="width:165px; margin-top:20px; border: 3px solid whitesmoke;">
+
+Wendy Rummerfield  
+California State University East Bay
+
+`r fontawesome::fa(name = "twitter")` <a href = "https://twitter.com/wendyrummer13">wendyrummer13</a>   
+
+`r fontawesome::fa(name = "github")` <a href = "https://github.com/wendyrummer13">wendyrummer13</a>  
 
 ---
 
